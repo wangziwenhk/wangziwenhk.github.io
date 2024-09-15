@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>Riddle 语言</title>
-      <link href="/2024/09/15/riddle-languag/"/>
-      <url>/2024/09/15/riddle-languag/</url>
-      
-        <content type="html"><![CDATA[<p>ok</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>Riddle 语言</title>
+    <url>/2024/09/15/riddle-languag/</url>
+    <content><![CDATA[<p>ok</p>
+]]></content>
+  </entry>
 </search>
